@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BlackDog</h1>
-<h3 align="center">A Freedom Programmer developer from China, I Love UE GameEngine! I Love It</h3>
+<h1 align="center">Hi 👋, I'm Zhihang Zhang</h1>
+<h3 align="center">An ordinary programmer from China, Learn here and there for a while</h3>
 
 - 🔭 I’m currently working on [GAS_Dura](https://github.com/hangge1/GAS_Dura)
 
