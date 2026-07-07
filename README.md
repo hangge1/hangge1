@@ -1,48 +1,40 @@
-# Zhihang Zhang
+# Hi, I'm Zhihang Zhang 👋
 
-I build graphics, geometry, game-development, and productivity tools from the problems I keep thinking about.
+I like turning technical curiosity into small, visible things: renderers, geometry tools, Unreal Engine systems, and product-shaped apps. ✨
 
-My work usually starts from a question: how does a rendering pipeline really work, how should geometry data be represented and inspected, how can a game system be made more extensible, and how can a personal workflow become a small usable product. I enjoy turning those questions into code, demos, notes, and tools that can be revisited and improved.
+**Main thread:** graphics + geometry + tools.  
+**Side quest:** make ideas easier to see, test, and reuse.
 
-## Main Direction
+## ⭐ Start Here
 
-- **Computer graphics and rendering**: software rasterization, OpenGL-style pipelines, shaders, texture sampling, depth testing, camera systems.
-- **Geometry and CAD tooling**: NURBS visualization, B-rep semantics, OpenCascade / Qt / VTK exploration.
-- **Unreal Engine systems**: Gameplay Ability System, RPG combat structure, animation support, editor/tooling experiments.
-- **Thinking-to-product practice**: turning personal needs and learning notes into small web apps, interactive tools, and reusable project templates.
+| Project | Why it matters |
+| --- | --- |
+| [DragonRenderer](https://github.com/hangge1/DragonRenderer) | A software rasterizer for understanding the rendering pipeline from the inside. |
+| [NurbsSurfaceDisplay](https://github.com/hangge1/NurbsSurfaceDisplay) | An interactive NURBS surface visualizer that turns geometry concepts into a browser tool. |
+| [FireCAD](https://github.com/hangge1/FireCAD) | CAD-style experiments with OCCT, VTK, and Qt. |
+| [GAS_Dura](https://github.com/hangge1/GAS_Dura) | An Unreal Engine RPG practice project built around Gameplay Ability System. |
 
-## Graphics and Geometry Projects
+## 🧠 What I Care About
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [DragonRenderer](https://github.com/hangge1/DragonRenderer) | A Windows software rasterizer that simulates an OpenGL-style rendering pipeline. | C++, CMake, GDI |
-| [NurbsSurfaceDisplay](https://github.com/hangge1/NurbsSurfaceDisplay) | A browser-based interactive NURBS surface visualizer with JSON import/export. | JavaScript, Three.js |
-| [FireCAD](https://github.com/hangge1/FireCAD) | Notes and experiments around OCCT, VTK, and Qt for CAD-style applications. | C++, OCCT, VTK, Qt |
-| [FireOpenGL](https://github.com/hangge1/FireOpenGL) | OpenGL learning records and rendering experiments. | C++, OpenGL |
-| [brep_semantic_explorer](https://github.com/hangge1/brep_semantic_explorer) | A lightweight explorer for B-rep semantic data. | HTML, JavaScript |
+- 🎨 **Rendering**: software rasterization, OpenGL-style pipelines, shaders, textures, depth, cameras.
+- 📐 **Geometry / CAD**: NURBS, B-rep semantics, OCCT, visualization, engineering tools.
+- 🎮 **Game systems**: Unreal Engine, Gameplay Ability System, RPG combat architecture.
+- 🛠️ **Product thinking**: turning notes and personal needs into usable tools.
 
-## Game and System Projects
+## 🧩 More Things I Build
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [GAS_Dura](https://github.com/hangge1/GAS_Dura) | An Unreal Engine RPG practice project built around Gameplay Ability System. | C++, Unreal Engine, GAS |
-| [UEEditorExtend](https://github.com/hangge1/UEEditorExtend) | Unreal Editor extension learning and experiments. | C++, Unreal Engine |
-| [cpp_server](https://github.com/hangge1/cpp_server) | C++ network server programming notes and examples. | C++, TCP, Socket |
+- [FireOpenGL](https://github.com/hangge1/FireOpenGL): OpenGL learning and rendering experiments.
+- [brep_semantic_explorer](https://github.com/hangge1/brep_semantic_explorer): lightweight B-rep semantic data explorer.
+- [SlimmingAssistant](https://github.com/hangge1/SlimmingAssistant): a private health and running record assistant.
+- [cpp_server](https://github.com/hangge1/cpp_server): C++ network server programming notes and examples.
 
-## Product-Minded Tools
+## 🌱 Working Style
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [SlimmingAssistant](https://github.com/hangge1/SlimmingAssistant) | A private health-management web app for tracking weight, running records, goals, and reminders. | Next.js, TypeScript, SQLite |
-| [MazeGenerator](https://github.com/hangge1/MazeGenerator) | A small algorithm practice project for maze generation. | C++ |
+I ask a question, build a small tool around it, then keep refining the idea until it becomes easier to explain, inspect, or reuse.
 
-## How I Work
+Code is my notebook. Tools are my way of thinking out loud. ☕
 
-- I prefer building visible tools over leaving ideas only as notes.
-- I use small projects to clarify large systems: rendering pipelines, CAD kernels, game ability frameworks, and workflow automation.
-- I care about the path from concept to usable interface: data model, interaction, debugging, documentation, and deployment.
-
-## Contact
+## 📬 Contact
 
 - Email: 824362330@qq.com
 - Zhihu: [张治航](https://www.zhihu.com/people/26-40-68-47)
