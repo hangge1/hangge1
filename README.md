@@ -46,7 +46,3 @@ My work usually starts from a question: how does a rendering pipeline really wor
 
 - Email: 824362330@qq.com
 - Zhihu: [张治航](https://www.zhihu.com/people/26-40-68-47)
-
-## Stats
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hangge1&layout=compact)
