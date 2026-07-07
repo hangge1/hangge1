@@ -1,23 +1,52 @@
-<h1 align="center">Hi 👋, I'm Zhihang Zhang</h1>
-<h3 align="center">An ordinary programmer from China, Learn here and there for a while</h3>
+# Zhihang Zhang
 
-- 🔭 I’m currently working on [GAS_Dura](https://github.com/hangge1/GAS_Dura)
+I build graphics, geometry, game-development, and productivity tools from the problems I keep thinking about.
 
-- 🌱 I’m currently learning **Unreal Engine**
+My work usually starts from a question: how does a rendering pipeline really work, how should geometry data be represented and inspected, how can a game system be made more extensible, and how can a personal workflow become a small usable product. I enjoy turning those questions into code, demos, notes, and tools that can be revisited and improved.
 
-- 👯 I’m looking to collaborate on [GameplayAbilitySystem](https://github.com/hangge1/GameplayAbilitySystem_Aura)
+## Main Direction
 
-- 👨‍💻 All of my projects are available at [https://github.com/hangge1](https://github.com/hangge1)
+- **Computer graphics and rendering**: software rasterization, OpenGL-style pipelines, shaders, texture sampling, depth testing, camera systems.
+- **Geometry and CAD tooling**: NURBS visualization, B-rep semantics, OpenCascade / Qt / VTK exploration.
+- **Unreal Engine systems**: Gameplay Ability System, RPG combat structure, animation support, editor/tooling experiments.
+- **Thinking-to-product practice**: turning personal needs and learning notes into small web apps, interactive tools, and reusable project templates.
 
-- 📫 How to reach me **824362330@qq.com**
+## Graphics and Geometry Projects
 
-- ⚡ Fun fact **I'm a otaku. Maybe Sleeping and Coding is the Lovely Things!**
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [DragonRenderer](https://github.com/hangge1/DragonRenderer) | A Windows software rasterizer that simulates an OpenGL-style rendering pipeline. | C++, CMake, GDI |
+| [NurbsSurfaceDisplay](https://github.com/hangge1/NurbsSurfaceDisplay) | A browser-based interactive NURBS surface visualizer with JSON import/export. | JavaScript, Three.js |
+| [FireCAD](https://github.com/hangge1/FireCAD) | Notes and experiments around OCCT, VTK, and Qt for CAD-style applications. | C++, OCCT, VTK, Qt |
+| [FireOpenGL](https://github.com/hangge1/FireOpenGL) | OpenGL learning records and rendering experiments. | C++, OpenGL |
+| [brep_semantic_explorer](https://github.com/hangge1/brep_semantic_explorer) | A lightweight explorer for B-rep semantic data. | HTML, JavaScript |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Game and System Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  </p>
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [GAS_Dura](https://github.com/hangge1/GAS_Dura) | An Unreal Engine RPG practice project built around Gameplay Ability System. | C++, Unreal Engine, GAS |
+| [UEEditorExtend](https://github.com/hangge1/UEEditorExtend) | Unreal Editor extension learning and experiments. | C++, Unreal Engine |
+| [cpp_server](https://github.com/hangge1/cpp_server) | C++ network server programming notes and examples. | C++, TCP, Socket |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangge&show_icons=true&locale=en&layout=compact" alt="hangge" /></p>
+## Product-Minded Tools
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [SlimmingAssistant](https://github.com/hangge1/SlimmingAssistant) | A private health-management web app for tracking weight, running records, goals, and reminders. | Next.js, TypeScript, SQLite |
+| [MazeGenerator](https://github.com/hangge1/MazeGenerator) | A small algorithm practice project for maze generation. | C++ |
+
+## How I Work
+
+- I prefer building visible tools over leaving ideas only as notes.
+- I use small projects to clarify large systems: rendering pipelines, CAD kernels, game ability frameworks, and workflow automation.
+- I care about the path from concept to usable interface: data model, interaction, debugging, documentation, and deployment.
+
+## Contact
+
+- Email: 824362330@qq.com
+- Zhihu: [张治航](https://www.zhihu.com/people/26-40-68-47)
+
+## Stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hangge1&layout=compact)
